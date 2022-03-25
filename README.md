@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @trance963
 - 👀 I’m interested in cinema, art, sports, books, games
 - 🌱 I’m currently learning Unity, C#
-- 💞️ I’m don't looking to collaborate :)
 - 📫 How to reach me ferdelance@pm.me
 
 <!---
